@@ -55,7 +55,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.smartersvision.home_services_provider"
+        applicationId "com.monbarasseur.home_services_provider"
         minSdkVersion 20
         targetSdkVersion 31
         multiDexEnabled true
