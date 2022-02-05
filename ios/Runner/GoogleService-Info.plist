@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>544890123012-nv2msv62fk6vfgqk1n0bec6kohng8o9j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.544890123012-nv2msv62fk6vfgqk1n0bec6kohng8o9j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBtHSgHhNS2vhgamDeQ53po38jB5X_Wvhs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>544890123012</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.monbarasseur.home-services-provider</string>
+	<key>PROJECT_ID</key>
+	<string>monbarasseur-homeservices</string>
+	<key>STORAGE_BUCKET</key>
+	<string>monbarasseur-homeservices.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:544890123012:ios:0ce8640f138f7b25201651</string>
+</dict>
+</plist>
